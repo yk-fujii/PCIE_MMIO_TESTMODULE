@@ -1,0 +1,1 @@
+cmd_/home/yukke/@old_workspace/gpu/iowrite/module/testiorw.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/yukke/@old_workspace/gpu/iowrite/module/testiorw.ko /home/yukke/@old_workspace/gpu/iowrite/module/testiorw.o /home/yukke/@old_workspace/gpu/iowrite/module/testiorw.mod.o
